@@ -7,8 +7,8 @@
 
 ### Description
 
-~~~This is a really cool program that I made after reading a good book on Visual Basic Graphics Programming. It randomly creates tree branches as if they grew there on there own. They curve and stuff, and it's really cool. This is between Beginner and Intermediate Level stuff, so please rate nicely - :-D
- 
+This is a really cool program that I made after reading a good book on Visual Basic Graphics Programming. It randomly creates tree branches as if they grew there on there own. They curve and stuff, and it's really cool. This is between Beginner and Intermediate Level stuff, so please rate nicely - :-D
+
 ### More Info
  
 
